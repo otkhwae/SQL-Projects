@@ -1,2 +1,2 @@
 # SQL-Projects
-SQL projects using SQL server
+SQL projects using SQL server & MySql workbench
